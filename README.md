@@ -63,3 +63,6 @@ RLVR-GRPO is a reinforcement learning variant of GRPO that optimizes a model pol
 
 For the complete implementation and full codebase support, see: https://github.com/shaheennabi/open-posttraining-system/tree/main
 
+## Local Clone Details
+
+The `temp_clone` directory contains a local clone of the full `open-posttraining-system` repository, providing a reference implementation and the complete support code needed to make this experiment work properly.
